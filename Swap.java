@@ -28,5 +28,7 @@ public class Swap {
 		System.out.println("After swapping values using 2nd type are " + a + " " + b);
 
 	}
+	
+	System.out.println("Done");
 
 }
